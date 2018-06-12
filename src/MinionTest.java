@@ -16,11 +16,13 @@ import org.junit.Test;
  * 			private int eyes; 
  * 			private String color; 
  * 			private String master;
- * </code>
+ * <code>
  * 
  * Create a constructor, and getters and setters for the member variables. If they’re done right, these tests will pass.
  * 
  * **/
+
+	
 
 public class MinionTest {
 
